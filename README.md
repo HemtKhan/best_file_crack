@@ -9,4 +9,4 @@ git clone https://github.com/HemtKhan/best_file_crack
 
 cd best_file_crack
 
-python2 best_file.py
+python best_file.py
